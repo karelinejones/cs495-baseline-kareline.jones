@@ -1,2 +1,4 @@
--theres a some things in github i feel like i still dont know how to use <br>
--i feel like i dont know how to fully use java libraries and end up fumbling through using it
+-opt-out statment <br>
+i didn't do step 3 for this assignment <br>
+some thing that makes me feel overwhelmed is github and everything that it does because i havent really worked with github a lot and still don't know how everything works. <br>
+i can work to fix this by working with github more and figuring it out myself
